@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,5 +14,8 @@ Hello! I'm a nineth grade economics student at Pontificia Universidad Católica 
 
 In summer, 2022, I had the unique opportunity to study with the best peruvian economic students at the annual summer course that the Central Bank of Peru organizes. In it, I extended the kwnoledge aquired in undergradute courses, in fields such as Bayesian Statistics, Financial Programming, Neokeynesian model for an open economy,as in Gali & Monacelli (2005), and Monetary Theory. The ultimate goal was to propose a Monetary Policy Action in response to an exogenous shock (stagflation) that propagated into the economy, using an DSGE model in Dynare.
 
+## APOYO Consultoría
+
+I practitioned in an real-sector area, following the evolution of peruvian mining, electricity and public infrastructure sectors, as well as the COVID-19 impact on the economy.
 
 
