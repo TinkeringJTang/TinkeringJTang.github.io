@@ -20,7 +20,7 @@ I practitioned for five months in the real-sector team, following the evolution 
 
 ## Causal Inference and Machine Learning
 
-During recent months, I developed skills regarding [Machine Learning and Causal Inference](https://github.com/TinkeringJTang/machine_learning), in specific topics, such as:
+During recent months, I developed skills regarding Machine Learning and Causal Inference, in specific topics, such as:
 
 * Prediction/Inference with High Dimensional Linear Models
 * Prediction in Modern Nonlinear Regressions (Random Forest and Deep Neural Networks)
