@@ -16,6 +16,23 @@ In summer, 2022, I had the unique opportunity to study with the best peruvian ec
 
 ## APOYO Consultoría
 
-I practitioned in an real-sector area, following the evolution of peruvian mining, electricity and public infrastructure sectors, as well as the COVID-19 impact on the economy.
+I practitioned for five months in the real-sector team, following the evolution of peruvian mining, electricity and public infrastructure sectors, as well as the COVID-19 impact on the economy.
+
+## Causal Inference and Machine Learning
+
+During recent months, I developed skills regarding [Machine Learning and Causal Inference](https://github.com/TinkeringJTang/machine_learning), in specific topics, such as:
+
+* Prediction/Inference with High Dimensional Linear Models
+* Prediction in Modern Nonlinear Regressions (Random Forest and Deep Neural Networks)
+* Randomized Control Trials
+* Causal DAGs
+* Double/debiased Machine Learning
+* Heterogeneous Treatment Effects using Causal Trees
+* Heterogeneous Treatment Effects using Causal Forest
+
+## Others
+
+* Experience in coding with Python, R and Julia
+* Bilingual in spanish and english
 
 
