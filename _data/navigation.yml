@@ -9,8 +9,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+   - title: "Causal Inference"
+     url: https://github.com/TinkeringJTang/machine_learning.git
     
   - title: "CV"
     url: https://docs.google.com/document/d/1VgmzH9jv9EOWGtlpnanPWbEJNKEpvmnqJ9V-0A70ks4/edit?usp=sharing
