@@ -33,6 +33,6 @@ During recent months, I developed skills regarding [Machine Learning and Causal 
 ## Others
 
 * Experience in coding with Python, R and Julia
-* Bilingual in spanish and english
+* Bilingual in spanish and english 
 
 
